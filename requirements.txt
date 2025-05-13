@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain_community
+langchain_aws
+langchain_chroma
+langgraph
+duckduckgo-search
+pymupdf
+python-pptx
